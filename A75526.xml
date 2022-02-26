@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The aprentices advice to the XII. bishops lately accused of high treason, by the honourable assemblies of both Houses. With our friendly admonition, to take heed how they falsely accuse those innocent worthies in Parliament, whose lives are more deare to us then all the 25. prelates, though they were hang'd together.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75526</idno>
+            <idno type="STC">Wing A3583B</idno>
+            <idno type="STC">Thomason E131_10</idno>
+            <idno type="STC">ESTC R999</idno>
+            <idno type="EEBO-CITATION">99873643</idno>
+            <idno type="PROQUEST">99873643</idno>
+            <idno type="VID">156330</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75526)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156330)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E131[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The aprentices advice to the XII. bishops lately accused of high treason, by the honourable assemblies of both Houses. With our friendly admonition, to take heed how they falsely accuse those innocent worthies in Parliament, whose lives are more deare to us then all the 25. prelates, though they were hang'd together.</title>
+                  <author>Taylor, John, 1580-1653, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the new yeare of the Bishops feare, Anno Dom. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Place of publication by conjecture.</note>
+                  <note>Two illustrations: frontispiece of cavalier, with illegible caption; verso of final leaf, three bishops.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  History --  Sources --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:156330:1"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of Captain Vaul</figDesc>
+                  <head>Captoine Vaul that cruell Tyrant.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:156330:1" rendition="simple:additions"/>
+            <p>THE APRENTICES ADVICE TO THE XII. BISHOPS lately accuſed of High Treaſon, by the Honourable Aſſemblies of both Houſes.</p>
+            <p>With Our friendly admonition, to take heed how they falſely Accuſe thoſe innocent Worthies in <hi>Parliament,</hi> whoſe lives are more deare to us then all the 25. Prelates, though they were hang'd together.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed in the new yeare of the Biſhops ſcare, <hi>Anno Dom.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:156330:2"/>
+            <pb n="1" facs="tcp:156330:2"/>
+            <head>THE APRENTICES ADVICE TO THE XII. BISHOPS, lately accuſed of high Treaſon, by the honourable Aſſemblies of both HOUSES.</head>
+            <lg>
+               <head>1.</head>
+               <l>THou, thou wert the cauſe, proud <hi>Io. Eborac</hi>
+               </l>
+               <l>Why the fell Courtiers did us hew and hack;</l>
+               <l>By him on thee our blood aveng'd ſhall be,</l>
+               <l>Begining of thy fall, who lets us ſee.</l>
+            </lg>
+            <lg>
+               <head>2.</head>
+               <l>What thou on us doſt charge, <hi>(Thomas Duriſme)</hi>
+               </l>
+               <l>It's true in thee, thou ſecond of that ſciſme,</l>
+               <l>Which is ſo great, that cur'd we thall not ſee;</l>
+               <l>Till thou by ſword of juſtice out off be.</l>
+            </lg>
+            <lg>
+               <head>3. 4.</head>
+               <l>After ſoules and bodies blood, <hi>Robt Co. Lich.</hi>
+               </l>
+               <l>You thirſted; and ſo did you <hi>Ioſ. Norwich;</hi>
+               </l>
+               <pb n="2" facs="tcp:156330:3"/>
+               <l> Moſt pious men were object of your hate,</l>
+               <l>Your miſchiefe <hi>God</hi> turnes on your trayterous pate.</l>
+            </lg>
+            <lg>
+               <head>5. 6.</head>
+               <l>You two <hi>Io. Aſaphen, Guil. Ba.</hi> and <hi>Wells,</hi>
+               </l>
+               <l>In whom a couple of baſe ſpirits dwells;</l>
+               <l>Our muſe doth tell you, for your trayterous geer,</l>
+               <l>You and your brood, are like to pay full deare.</l>
+            </lg>
+            <lg>
+               <head>7.</head>
+               <l>I'th heart o'th Treaſon, now comes <hi>Geo. Hereford,</hi>
+               </l>
+               <l>No tongue or pen, his baſeneſſe can record.</l>
+            </lg>
+            <lg>
+               <head>8.</head>
+               <l>And next comes he, who will, (who dare, <hi>Rob. Oxon.</hi>
+               </l>
+               <l>Of their nature bruitiſh, and) bid A-pox on</l>
+               <l>All Puritans, i'th <hi>Parliament</hi> and <hi>Citie,</hi>
+               </l>
+               <l>Thirſting to ſee their blood, without all pitty.</l>
+            </lg>
+            <lg>
+               <head>9.</head>
+               <l>
+                  <hi>Ma. Ely</hi> doth exceed the reſt in Letchery,</l>
+               <l>Yet doth but equalize them in their treachery:</l>
+               <l>(For Letchery, Trechery, Popery, Pride,</l>
+               <l>Our ſordid Prelates ſcorne to be out vi'de.</l>
+            </lg>
+            <lg>
+               <head>10. 11. 12,</head>
+               <l>
+                  <hi>Godf Gonc. Jo. Peterburg. Mor. L. Landaff.</hi>
+               </l>
+               <l>You three like drunkards will carouſe and quaff;</l>
+               <l>And in your healths, upon your curſed knee,</l>
+               <l>Wiſh the confuſion of all <hi>Scots</hi> to ſee.</l>
+               <pb n="3" facs="tcp:156330:3"/>
+               <l> Goe twelve Apoſtates (not Apoſtles) view,</l>
+               <l>Your Arch <hi>Guil. Cant.</hi> the head o'th damned crew,</l>
+               <l>Who hath his King, Country, and State betray'd,</l>
+               <l>And to be hang'd with you, hath ſo long ſtayd,</l>
+            </lg>
+            <lg>
+               <l>Now lay your knaviſh pates i'th Tower together,</l>
+               <l>And while you have time, do but conſider whether,</l>
+               <l>It be not beſt your Treaſon to confeſſe,</l>
+               <l>With all your plots, and acts of wickedneſſe,</l>
+               <l>That mercy finde with <hi>God,</hi> and man you may;</l>
+               <l>Before your mouldering corps returne to clay:</l>
+               <l>Meane while, ſtop your ſoule mouthes, &amp; do not ly,</l>
+               <l>Saying for want of you Sects multiply.</l>
+               <l>Whereas by your curſ'd meanes, they do increaſe,</l>
+               <l>And will do, (while you live) in every place,</l>
+               <l>For when in you, poore folk ſuch Treaſon ſpie,</l>
+               <l>And in your waies ſuch baſeneſſe they do eye,</l>
+               <l>Alas, (ſay they) Non wiſe will be content,</l>
+               <l>T'abide under ſuch miſcreants government:</l>
+               <l>To any Sect we joyned ſure will be</l>
+               <l>Before wee'l yeeld to Prelats tyrany.</l>
+            </lg>
+            <lg>
+               <l>How is the juſtice of great <hi>Jove</hi> dilated,</l>
+               <l>And Prelates miſchiefe now retaliated?</l>
+               <l>The <hi>Scots</hi> by them muſt counted trayters be,</l>
+               <l>
+                  <hi>Prelats</hi> (not <hi>Scots</hi>) are trayters now we ſee:</l>
+               <l>Oh height of pride! oh unheard of impudence,</l>
+               <l>Your King and State, how would you recompence?</l>
+               <l>Muſt all the Lawes made without you be Null?</l>
+               <l>Of pride and — of what not, are you ſo full?</l>
+               <pb n="4" facs="tcp:156330:4"/>
+               <l> And ſo big ſwolne? that now you needs muſt vent</l>
+               <l>To blow up by a trick the <hi>Parliament?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>You brats of <hi>Babylon,</hi> muſt you be King?</l>
+               <l>Made without you, muſt no Lawes be? a thing</l>
+               <l>The Noble <hi>Peeres</hi> and <hi>Commons</hi> ner'e will brook,</l>
+               <l>Into your wiles more narrowly they'l look:</l>
+               <l>You ſpawne of <hi>Rome,</hi> how could you do this evill,</l>
+               <l>Vnleſſe you acted were, even by the Devill?</l>
+               <l>Let <hi>Prelates</hi> then by <hi>Prentices</hi> of <hi>London</hi>
+               </l>
+               <l>Adviſed be, or elſe they are but undone.</l>
+               <l>Vnfainedly your trayterous deeds repent,</l>
+               <l>Elſe as your bodies now toth' <hi>Tower</hi> are ſent,</l>
+               <l>So will your ſoules ere long be ſent to Hell,</l>
+               <l>With <hi>Iudas, Garnet, Graunt,</hi> and <hi>Faux</hi> to dwell,</l>
+               <l>Which ſhall (with all the reſt) tormented be,</l>
+               <l>In Helliſh woes, to all eternity.</l>
+            </lg>
+            <lg>
+               <l>But ſtay, we <hi>Prentices</hi> have one word more,</l>
+               <l>To charge upon this brood o'th ſcarlet whore;</l>
+               <l>The limbs of Antichriſt, the Sonnes of Hell;</l>
+               <l>Who do the powder traytors paralell:</l>
+               <l>Chieffy in this, their damned treachery,</l>
+               <l>Vpon the Puritans muſt father'd be:</l>
+               <l>The like do theſe by this their helliſh reach,</l>
+               <l>The worthies of the <hi>Parliament</hi> t'impeach</l>
+               <l>With treaſon. Impudent and braſen faces,</l>
+               <l>How durſt you lay on them ſuch foule diſgraces?</l>
+               <l>The wretch that ſpake it firſt, did he not feare,</l>
+               <l>To ſwallow him up quick, the earth would teare.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:156330:4"/>
+               <l>Peace chattering Meg-pies, peace, &amp; ceaſe to chatter,</l>
+               <l>In theſe brave ſpirits lodgeth other matter;</l>
+               <l>Theſe are bleſt Saints, theſe ſtand for Kingdoms good</l>
+               <l>In their bleſt veines there runs no trayterous blood;</l>
+               <l>There doth in their true hearts no treaſon dwell,</l>
+               <l>To trayters they are like as heaven to hell;</l>
+               <l>They adventure their lives for us, we ſee,</l>
+               <l>And (as<note n="*" place="margin">In the Pro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſtation.</note> wee'ar ſworne) the like for them will we,</l>
+               <l>Firſt hyems gellid Ice like fire ſhall burne,</l>
+               <l>And bluſtering <hi>Borias</hi> to due returne,</l>
+               <l>And m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſy ſtones to plumid wings betake,</l>
+               <l>E're <hi>Prentices</hi> theſe Worthies will forſake.</l>
+            </lg>
+         </div>
+         <trailer>Finis &amp; Funis.</trailer>
+      </body>
+   </text>
+</TEI>
